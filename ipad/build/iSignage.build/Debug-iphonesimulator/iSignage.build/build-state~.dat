@@ -1,0 +1,256 @@
+TiSignage
+v7
+r0
+t308891387.225298
+cCheck dependencies
+cProcessInfoPlistFile /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/Info.plist iSignage-Info.plist
+cCompileXIB /Users/fastshop/Desktop/TUDO/iSignage/MainWindow.xib
+cCompileXIB /Users/fastshop/Desktop/TUDO/iSignage/iSignageViewController.xib
+cProcessPCH /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch.gch iSignage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/main.o /Users/fastshop/Desktop/TUDO/iSignage/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageAppDelegate.o /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageViewController.o /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage normal i386
+cGenerateDSYMFile /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app.dSYM /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage
+cTouch /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C701D280000000000000110
+t1282415912
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.h
+c000000004CB9160500000000000001DE
+t1287198213
+s478
+i<UIKit/UIKit.h>
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m
+c000000004CB917760000000000000817
+t1287198582
+s2071
+i"iSignageAppDelegate.h"
+i"iSignageViewController.h"
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.h
+c000000004CB9160500000000000000EA
+t1287198213
+s234
+i<UIKit/UIKit.h>
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m
+c000000004CB91605000000000000054D
+t1287198213
+s1357
+i"iSignageViewController.h"
+
+N/Users/fastshop/Desktop/TUDO/iSignage/MainWindow.xib
+c000000004CB916050000000000004D13
+t1287198213
+s19731
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app
+t1287198587
+s238
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app.dSYM
+t1287198587
+s102
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/Info.plist
+t1287198583
+s802
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/MainWindow.nib
+t1287198584
+s1125
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/PkgInfo
+t1287198583
+s8
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage
+t1287198587
+s17436
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignageViewController.nib
+t1287198584
+s764
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignage.LinkFileList
+c000000004CB917770000000000000192
+t1287198583
+s402
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageAppDelegate.o
+t1287198586
+s45844
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageViewController.o
+t1287198586
+s34320
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/main.o
+t1287198586
+s6300
+
+N/Users/fastshop/Desktop/TUDO/iSignage/iSignageViewController.xib
+c000000004CB916050000000000003EE5
+t1287198213
+s16101
+
+N/Users/fastshop/Desktop/TUDO/iSignage/iSignage_Prefix.pch
+c000000004CB9160500000000000000B9
+t1287198213
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/fastshop/Desktop/TUDO/iSignage/main.m
+c000000004CB916050000000000000163
+t1287198213
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch.gch
+t1287198586
+s13825936
+
+NiSignage-Info.plist
+c000000004CB9160500000000000004D6
+t1287198213
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308891383#308891383#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageAppDelegate.o /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308891386.346426
+e308891386.470363
+r1
+xCompileC
+xbuild/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageAppDelegate.o
+x/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m308891386#308891386#0(0"0(0#0#67"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m8601995424#1948"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-generated-files.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-own-target-headers.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-all-target-headers.hmap -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-project-headers.hmap -F/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -I/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/include -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources/i386 -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources -include /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch -c /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m -o /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageAppDelegate.o0#
+
+CCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageViewController.o /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308891386.462524
+e308891386.523784
+r1
+xCompileC
+xbuild/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageViewController.o
+x/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308891386#308891386#0(0"0(0#0#70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m8604170272#1954"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-generated-files.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-own-target-headers.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-all-target-headers.hmap -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-project-headers.hmap -F/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -I/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/include -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources/i386 -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources -include /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch -c /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m -o /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageViewController.o0#
+
+CCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/main.o /Users/fastshop/Desktop/TUDO/iSignage/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308891386.345524
+e308891386.462431
+r1
+xCompileC
+xbuild/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/main.o
+x/Users/fastshop/Desktop/TUDO/iSignage/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/fastshop/Desktop/TUDO/iSignage/main.m308891386#308891386#0(0"0(0#0#44"/Users/fastshop/Desktop/TUDO/iSignage/main.m8603981760#1910"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-generated-files.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-own-target-headers.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-all-target-headers.hmap -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-project-headers.hmap -F/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -I/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/include -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources/i386 -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources -include /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch -c /Users/fastshop/Desktop/TUDO/iSignage/main.m -o /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/fastshop/Desktop/TUDO/iSignage/MainWindow.xib
+s308891383.728165
+e308891384.895681
+r1
+xCompileXIB
+x/Users/fastshop/Desktop/TUDO/iSignage/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308891383#308891384#0(0"0(0#0#52"/Users/fastshop/Desktop/TUDO/iSignage/MainWindow.xib8604100128#568"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/MainWindow.nib /Users/fastshop/Desktop/TUDO/iSignage/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/fastshop/Desktop/TUDO/iSignage/iSignageViewController.xib
+s308891383.729956
+e308891384.889129
+r1
+xCompileXIB
+x/Users/fastshop/Desktop/TUDO/iSignage/iSignageViewController.xib
+lSLF07#2@37"CompileXIB iSignageViewController.xib308891383#308891384#0(0"0(0#0#64"/Users/fastshop/Desktop/TUDO/iSignage/iSignageViewController.xib8605782656#592"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignageViewController.nib /Users/fastshop/Desktop/TUDO/iSignage/iSignageViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CGenerateDSYMFile /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app.dSYM /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage
+s308891387.148437
+e308891387.196842
+r1
+xGenerateDSYMFile
+x/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app.dSYM
+x/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/iSignage.app.dSYM build/Debug-iphonesimulator/iSignage.app/iSignage308891387#308891387#0(0"0(0#0#87"/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage8605704960#383"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage -o /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app.dSYM0#
+
+CLd /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage normal i386
+s308891386.523871
+e308891387.148340
+r1
+xLd
+x/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage
+xnormal
+xi386
+lSLF07#2@92"Link /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage308891386#308891387#0(0"0(0#0#0"8601796992#900"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -F/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -filelist /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignage.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage0#
+
+CProcessInfoPlistFile /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/Info.plist iSignage-Info.plist
+s308891383.716101
+e308891383.728085
+r1
+xProcessInfoPlistFile
+x/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/Info.plist
+xiSignage-Info.plist
+lSLF07#2@27"Process iSignage-Info.plist308891383#308891383#0(0"0(0#0#57"/Users/fastshop/Desktop/TUDO/iSignage/iSignage-Info.plist30962724186357872#479"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iSignage-Info.plist -genpkginfo /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/Info.plist0#
+
+CProcessPCH /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch.gch iSignage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308891384.895880
+e308891386.345377
+r1
+xProcessPCH
+x/var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch.gch
+xiSignage_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iSignage_Prefix.pch308891384#308891386#0(0"0(0#0#57"/Users/fastshop/Desktop/TUDO/iSignage/iSignage_Prefix.pch8601661056#1802"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-generated-files.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-own-target-headers.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-all-target-headers.hmap -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-project-headers.hmap -F/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -I/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/include -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources/i386 -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources -c /Users/fastshop/Desktop/TUDO/iSignage/iSignage_Prefix.pch -o /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch.gch0#
+
+CTouch /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app
+s308891387.196927
+e308891387.225256
+r1
+xTouch
+x/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app
+lSLF07#2@84"Touch /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app308891387#308891387#0(0"0(0#0#0"8601653824#277"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app0#
+

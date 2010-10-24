@@ -1,0 +1,22 @@
+<div id="login_box">
+	<h2>Login</h2>
+	
+	<% form_tag(:action => 'authenticate') do -%>
+		<%= text_field_tag :username, "", :placeholder => "Username" %><br/><br/>
+		<%= password_field_tag :password, "", :placeholder => "Password" %><br/><br/>
+		<%= submit_tag "Login", :class => "button" %>
+	<% end -%>
+	
+	<h3><%= link_to_function "Don't have a login?" do |page| 
+		page.visual_effect :toggle_blind, 'create_account_how_to'
+		# page.visual_effect :scroll_to, 'create_link'
+		# page.hide "create_link"
+	end %></h3>
+</div>
+
+<div id="create_account_how_to" style="display:none;">
+	<div id="login_box">
+		<h3>Creating an account</h3>
+		<p>To create your iSignage account, you will need to download iSignate from Cydia in your jailbroken iPad.</p>
+	</div>
+</div>

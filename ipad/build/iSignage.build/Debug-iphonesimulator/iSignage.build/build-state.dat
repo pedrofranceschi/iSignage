@@ -1,0 +1,505 @@
+TiSignage
+v7
+r0
+t308983362.324863
+cCheck dependencies
+cProcessInfoPlistFile /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/Info.plist iSignage-Info.plist
+cCompileXIB /Users/fastshop/Desktop/TUDO/iSignage/MainWindow.xib
+cCompileXIB /Users/fastshop/Desktop/TUDO/iSignage/iSignageViewController.xib
+cCpResource build/Debug-iphonesimulator/iSignage.app/background.png background.png
+cCpResource build/Debug-iphonesimulator/iSignage.app/Icon.png Icon.png
+cProcessPCH /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch.gch iSignage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/main.o /Users/fastshop/Desktop/TUDO/iSignage/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageAppDelegate.o /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageViewController.o /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/ServerRequest.o /Users/fastshop/Desktop/TUDO/iSignage/Classes/ServerRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/Reachability.o /Users/fastshop/Desktop/TUDO/iSignage/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage normal i386
+cGenerateDSYMFile /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app.dSYM /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage
+cTouch /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C701D280000000000000110
+t1282415912
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004BD1FECD0000000000000A99
+t1272053453
+s2713
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004BD1CD110000000000001A78
+t1272040721
+s6776
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004BD1CD190000000000055570
+t1272040729
+s349552
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/arpa/inet.h
+c00000000464386D70000000000001533
+t1178830551
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/ifaddrs.h
+c00000000464386E00000000000000782
+t1178830560
+s1922
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/netdb.h
+c00000000464386E20000000000002F2B
+t1178830562
+s12075
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/netinet/in.h
+c00000000476344B700000000000052AA
+t1197687991
+s21162
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/netinet6/in6.h
+c00000000476344BA0000000000004970
+t1197687994
+s18800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/sys/socket.h
+c00000000476344C000000000000055F1
+t1197688000
+s22001
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/AutoScrollLabel.h
+c000000004B440823000000000000040C
+t1262749731
+s1036
+i<UIKit/UIKit.h>
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/AutoScrollLabel.m
+c000000004B8FD895000000000000150E
+t1267718293
+s5390
+i"AutoScrollLabel.h"
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/Reachability.h
+c000000004C27F21F0000000000000F19
+t1277686303
+s3865
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/Reachability.m
+c000000004C759EDF00000000000023AB
+t1282776799
+s9131
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/ServerRequest.h
+c000000004CB91ABF000000000000013C
+t1287199423
+s316
+i<Foundation/Foundation.h>
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/ServerRequest.m
+c000000004CBA7586000000000000050C
+t1287288198
+s1292
+i"ServerRequest.h"
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.h
+c000000004CB9E0C700000000000001DE
+t1287250119
+s478
+i<UIKit/UIKit.h>
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m
+c000000004CB9C10C000000000000081E
+t1287241996
+s2078
+i"iSignageAppDelegate.h"
+i"iSignageViewController.h"
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.h
+c000000004CBA72B100000000000008B9
+t1287287473
+s2233
+i<UIKit/UIKit.h>
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m
+c000000004CBA791F0000000000003849
+t1287289119
+s14409
+i"iSignageViewController.h"
+i"ServerRequest.h"
+i"iSignageAppDelegate.h"
+i"Reachability.h"
+
+N/Users/fastshop/Desktop/TUDO/iSignage/Icon.png
+c000000004CBA7EBF00000000000031EC
+t1287290559
+s12780
+
+N/Users/fastshop/Desktop/TUDO/iSignage/MainWindow.xib
+c000000004CB916050000000000004D13
+t1287198213
+s19731
+
+N/Users/fastshop/Desktop/TUDO/iSignage/background.png
+c000000004CB919DB00000000000652F8
+t1287199195
+s414456
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app
+t1287290562
+s306
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app.dSYM
+t1287289141
+s102
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/Icon.png
+t1287290562
+s12780
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/Info.plist
+t1287290378
+s781
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/MainWindow.nib
+t1287198584
+s1125
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/PkgInfo
+t1287290378
+s8
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/background.png
+t1287199247
+s414456
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage
+t1287289141
+s43580
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignageViewController.nib
+t1287288526
+s7373
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/AutoScrollLabel.o
+t1287242999
+s37160
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/Reachability.o
+t1287289107
+s22624
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/ServerRequest.o
+t1287288200
+s11304
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignage.LinkFileList
+c000000004CBA79130000000000000299
+t1287289107
+s665
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageAppDelegate.o
+t1287287642
+s48592
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageViewController.o
+t1287289119
+s77876
+
+N/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/main.o
+t1287198586
+s6300
+
+N/Users/fastshop/Desktop/TUDO/iSignage/iSignageViewController.xib
+c000000004CBA76CA0000000000012AA7
+t1287288522
+s76455
+
+N/Users/fastshop/Desktop/TUDO/iSignage/iSignage_Prefix.pch
+c000000004CB9160500000000000000B9
+t1287198213
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/fastshop/Desktop/TUDO/iSignage/main.m
+c000000004CB916050000000000000163
+t1287198213
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch.gch
+t1287198586
+s13825936
+
+NiSignage-Info.plist
+c000000004CBA7E08000000000000049C
+t1287290376
+s1180
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308983362#308983362#0(0"0(0#1#0"8611934464#0"0#
+
+CCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/AutoScrollLabel.o /Users/fastshop/Desktop/TUDO/iSignage/Classes/AutoScrollLabel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308935799.611713
+e308935799.737134
+r1
+xCompileC
+xbuild/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/AutoScrollLabel.o
+x/Users/fastshop/Desktop/TUDO/iSignage/Classes/AutoScrollLabel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/fastshop/Desktop/TUDO/iSignage/Classes/AutoScrollLabel.m308935799#308935799#0(0"0(0#0#63"/Users/fastshop/Desktop/TUDO/iSignage/Classes/AutoScrollLabel.m8614363712#1940"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-generated-files.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-own-target-headers.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-all-target-headers.hmap -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-project-headers.hmap -F/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -I/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/include -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources/i386 -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources -include /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch -c /Users/fastshop/Desktop/TUDO/iSignage/Classes/AutoScrollLabel.m -o /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/AutoScrollLabel.o0#
+
+CCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/Reachability.o /Users/fastshop/Desktop/TUDO/iSignage/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308981907.818359
+e308981907.925382
+r1
+xCompileC
+xbuild/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/Reachability.o
+x/Users/fastshop/Desktop/TUDO/iSignage/Classes/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/fastshop/Desktop/TUDO/iSignage/Classes/Reachability.m308981907#308981907#0(0"0(0#0#60"/Users/fastshop/Desktop/TUDO/iSignage/Classes/Reachability.m8605998976#1934"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-generated-files.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-own-target-headers.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-all-target-headers.hmap -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-project-headers.hmap -F/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -I/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/include -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources/i386 -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources -include /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch -c /Users/fastshop/Desktop/TUDO/iSignage/Classes/Reachability.m -o /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/Reachability.o0#
+
+CCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/ServerRequest.o /Users/fastshop/Desktop/TUDO/iSignage/Classes/ServerRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308981000.900423
+e308981000.977762
+r1
+xCompileC
+xbuild/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/ServerRequest.o
+x/Users/fastshop/Desktop/TUDO/iSignage/Classes/ServerRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/fastshop/Desktop/TUDO/iSignage/Classes/ServerRequest.m308981000#308981000#0(0"0(0#0#61"/Users/fastshop/Desktop/TUDO/iSignage/Classes/ServerRequest.m8621712192#1936"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-generated-files.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-own-target-headers.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-all-target-headers.hmap -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-project-headers.hmap -F/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -I/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/include -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources/i386 -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources -include /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch -c /Users/fastshop/Desktop/TUDO/iSignage/Classes/ServerRequest.m -o /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/ServerRequest.o0#
+
+CCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageAppDelegate.o /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308980442.763108
+e308980442.850736
+r1
+xCompileC
+xbuild/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageAppDelegate.o
+x/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m: In function '-[iSignageAppDelegate applicationWillTerminate:]':
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m:52: warning: local declaration of 'viewController' hides instance variable
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m:52: warning: 'iSignageViewController' may not respond to '-endSession'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m:52: warning: (Messages without a matching method signature
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m:52: warning: will be assumed to return 'id' and accept
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m:52: warning: '...' as arguments.)
+lSLF07#2@75"Compile /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m308980442#308980443#0(767"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m: In function '-[iSignageAppDelegate applicationWillTerminate:]':/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m:52: warning: local declaration of 'viewController' hides instance variable/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m:52: warning: 'iSignageViewController' may not respond to '-endSession'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m:52: warning: (Messages without a matching method signature/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m:52: warning: will be assumed to return 'id' and accept/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m:52: warning: '...' as arguments.)3(22@61"Local declaration of 'viewController' hides instance variable308980442#133#143#0(6@67"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m308934796#52#0#52#0#0"0(22@57"'iSignageViewController' may not respond to '-endSession'308980442#276#139#0(6@67"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m308934796#52#0#52#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)308980442#415#127#0(6@67"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m308934796#52#0#52#0#0"0(0#0#67"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m8615245824#1948"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-generated-files.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-own-target-headers.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-all-target-headers.hmap -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-project-headers.hmap -F/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -I/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/include -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources/i386 -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources -include /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch -c /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageAppDelegate.m -o /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageAppDelegate.o0#
+
+CCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageViewController.o /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308981919.865286
+e308981920.003025
+r1
+xCompileC
+xbuild/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageViewController.o
+x/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController viewDidLoad]':
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:21: warning: 'iSignageViewController' may not respond to '-internetIsAvailable'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:21: warning: (Messages without a matching method signature
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:21: warning: will be assumed to return 'id' and accept
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:21: warning: '...' as arguments.)
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController performLogin:]':
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:52: warning: 'NSMutableArray' may not respond to '-setObject:forKey:'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:59: warning: 'iSignageViewController' may not respond to '-startSession'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:69: warning: unused variable 'checkForNewCommandsTimer'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController startSession]':
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:116: warning: 'NSMutableArray' may not respond to '-objectForKey:'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:118: warning: 'NSMutableArray' may not respond to '-setObject:forKey:'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:120: warning: 'NSMutableArray' may not respond to '-objectForKey:'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:123: warning: 'NSMutableArray' may not respond to '-objectForKey:'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController endSession]':
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:131: warning: 'NSMutableArray' may not respond to '-objectForKey:'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController checkForNewCommandsTimerCallback]':
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:145: warning: 'iSignageViewController' may not respond to '-checkForNewCommands'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController checkForNewCommands]':
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:170: warning: 'iSignageViewController' may not respond to '-runCommands:'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController runCommands:]':
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:217: warning: 'iSignageViewController' may not respond to '-removeAllViews'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:225: warning: 'iSignageViewController' may not respond to '-removeAllViews'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:229: warning: 'NSMutableArray' may not respond to '-setObject:forKey:'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:236: warning: 'NSMutableArray' may not respond to '-objectForKey:'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:250: warning: 'NSMutableArray' may not respond to '-objectForKey:'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:256: warning: 'NSMutableArray' may not respond to '-objectForKey:'
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: At top level:
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'sessionData' requires method '-sessionData' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'sessionData' requires the method 'setSessionData:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'loginViewUsername' requires method '-loginViewUsername' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'loginViewUsername' requires the method 'setLoginViewUsername:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'loginViewPassword' requires method '-loginViewPassword' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'loginViewPassword' requires the method 'setLoginViewPassword:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'homeView' requires method '-homeView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'homeView' requires the method 'setHomeView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'homeViewActivityIndicator' requires method '-homeViewActivityIndicator' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'homeViewActivityIndicator' requires the method 'setHomeViewActivityIndicator:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'fixedTextView' requires method '-fixedTextView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'fixedTextView' requires the method 'setFixedTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'fixedTextViewTextView' requires method '-fixedTextViewTextView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'fixedTextViewTextView' requires the method 'setFixedTextViewTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'scrollTextView' requires method '-scrollTextView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'scrollTextView' requires the method 'setScrollTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'scrollTextViewTextView' requires method '-scrollTextViewTextView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'scrollTextViewTextView' requires the method 'setScrollTextViewTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'imageView' requires method '-imageView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'imageView' requires the method 'setImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'imageViewImageView' requires method '-imageViewImageView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'imageViewImageView' requires the method 'setImageViewImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountView' requires method '-createAccountView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountView' requires the method 'setCreateAccountView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewFullName' requires method '-createAccountViewFullName' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewFullName' requires the method 'setCreateAccountViewFullName:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewEmail' requires method '-createAccountViewEmail' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewEmail' requires the method 'setCreateAccountViewEmail:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewUsername' requires method '-createAccountViewUsername' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewUsername' requires the method 'setCreateAccountViewUsername:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewPassword' requires method '-createAccountViewPassword' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewPassword' requires the method 'setCreateAccountViewPassword:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@78"Compile /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#308981920#0(11234"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController viewDidLoad]':/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:21: warning: 'iSignageViewController' may not respond to '-internetIsAvailable'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:21: warning: (Messages without a matching method signature/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:21: warning: will be assumed to return 'id' and accept/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:21: warning: '...' as arguments.)/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController performLogin:]':/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:52: warning: 'NSMutableArray' may not respond to '-setObject:forKey:'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:59: warning: 'iSignageViewController' may not respond to '-startSession'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:69: warning: unused variable 'checkForNewCommandsTimer'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController startSession]':/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:116: warning: 'NSMutableArray' may not respond to '-objectForKey:'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:118: warning: 'NSMutableArray' may not respond to '-setObject:forKey:'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:120: warning: 'NSMutableArray' may not respond to '-objectForKey:'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:123: warning: 'NSMutableArray' may not respond to '-objectForKey:'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController endSession]':/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:131: warning: 'NSMutableArray' may not respond to '-objectForKey:'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController checkForNewCommandsTimerCallback]':/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:145: warning: 'iSignageViewController' may not respond to '-checkForNewCommands'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController checkForNewCommands]':/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:170: warning: 'iSignageViewController' may not respond to '-runCommands:'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: In function '-[iSignageViewController runCommands:]':/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:217: warning: 'iSignageViewController' may not respond to '-removeAllViews'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:225: warning: 'iSignageViewController' may not respond to '-removeAllViews'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:229: warning: 'NSMutableArray' may not respond to '-setObject:forKey:'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:236: warning: 'NSMutableArray' may not respond to '-objectForKey:'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:250: warning: 'NSMutableArray' may not respond to '-objectForKey:'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:256: warning: 'NSMutableArray' may not respond to '-objectForKey:'/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m: At top level:/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'sessionData' requires method '-sessionData' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'sessionData' requires the method 'setSessionData:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'loginViewUsername' requires method '-loginViewUsername' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'loginViewUsername' requires the method 'setLoginViewUsername:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'loginViewPassword' requires method '-loginViewPassword' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'loginViewPassword' requires the method 'setLoginViewPassword:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'homeView' requires method '-homeView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'homeView' requires the method 'setHomeView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'homeViewActivityIndicator' requires method '-homeViewActivityIndicator' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'homeViewActivityIndicator' requires the method 'setHomeViewActivityIndicator:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'fixedTextView' requires method '-fixedTextView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'fixedTextView' requires the method 'setFixedTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'fixedTextViewTextView' requires method '-fixedTextViewTextView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'fixedTextViewTextView' requires the method 'setFixedTextViewTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'scrollTextView' requires method '-scrollTextView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'scrollTextView' requires the method 'setScrollTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'scrollTextViewTextView' requires method '-scrollTextViewTextView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'scrollTextViewTextView' requires the method 'setScrollTextViewTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'imageView' requires method '-imageView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'imageView' requires the method 'setImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'imageViewImageView' requires method '-imageViewImageView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'imageViewImageView' requires the method 'setImageViewImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountView' requires method '-createAccountView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountView' requires the method 'setCreateAccountView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewFullName' requires method '-createAccountViewFullName' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewFullName' requires the method 'setCreateAccountViewFullName:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewEmail' requires method '-createAccountViewEmail' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewEmail' requires the method 'setCreateAccountViewEmail:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewUsername' requires method '-createAccountViewUsername' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewUsername' requires the method 'setCreateAccountViewUsername:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewPassword' requires method '-createAccountViewPassword' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m:300: warning: property 'createAccountViewPassword' requires the method 'setCreateAccountViewPassword:' to be defined - use @synthesize, @dynamic or provide a method implementation51(22@66"'iSignageViewController' may not respond to '-internetIsAvailable'308981919#125#151#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#21#0#21#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)308981919#276#130#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#21#0#21#0#0"0(22@56"'NSMutableArray' may not respond to '-setObject:forKey:'308981919#764#141#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#52#0#52#0#26"'*' may not respond to '*'0(22@59"'iSignageViewController' may not respond to '-startSession'308981919#905#144#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#59#0#59#0#26"'*' may not respond to '*'0(22@42"Unused variable 'checkForNewCommandsTimer'308981919#1049#127#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#69#0#69#0#19"unused variable '*'0(22@52"'NSMutableArray' may not respond to '-objectForKey:'308981919#1302#138#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#116#0#116#0#26"'*' may not respond to '*'0(22@56"'NSMutableArray' may not respond to '-setObject:forKey:'308981919#1440#142#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#118#0#118#0#26"'*' may not respond to '*'0(22@52"'NSMutableArray' may not respond to '-objectForKey:'308981919#1582#138#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#120#0#120#0#26"'*' may not respond to '*'0(22@52"'NSMutableArray' may not respond to '-objectForKey:'308981919#1720#138#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#123#0#123#0#26"'*' may not respond to '*'0(22@52"'NSMutableArray' may not respond to '-objectForKey:'308981919#1982#138#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#131#0#131#0#26"'*' may not respond to '*'0(22@66"'iSignageViewController' may not respond to '-checkForNewCommands'308981919#2266#152#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#145#0#145#0#26"'*' may not respond to '*'0(22@59"'iSignageViewController' may not respond to '-runCommands:'308981919#2551#145#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#170#0#170#0#26"'*' may not respond to '*'0(22@61"'iSignageViewController' may not respond to '-removeAllViews'308981919#2822#147#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#217#0#217#0#26"'*' may not respond to '*'0(22@61"'iSignageViewController' may not respond to '-removeAllViews'308981919#2969#147#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#225#0#225#0#26"'*' may not respond to '*'0(22@56"'NSMutableArray' may not respond to '-setObject:forKey:'308981919#3116#142#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#229#0#229#0#26"'*' may not respond to '*'0(22@52"'NSMutableArray' may not respond to '-objectForKey:'308981919#3258#138#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#236#0#236#0#26"'*' may not respond to '*'0(22@52"'NSMutableArray' may not respond to '-objectForKey:'308981919#3396#138#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#250#0#250#0#26"'*' may not respond to '*'0(22@52"'NSMutableArray' may not respond to '-objectForKey:'308981919#3534#138#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#256#0#256#0#26"'*' may not respond to '*'0(23@13"At top level:308981919#3672#86#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#0#0#0#0#0"0(22@130"Property 'sessionData' requires method '-sessionData' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#3758#216#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@137"Property 'sessionData' requires the method 'setSessionData:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#3974#223#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@142"Property 'loginViewUsername' requires method '-loginViewUsername' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#4197#228#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@149"Property 'loginViewUsername' requires the method 'setLoginViewUsername:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#4425#235#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@142"Property 'loginViewPassword' requires method '-loginViewPassword' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#4660#228#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@149"Property 'loginViewPassword' requires the method 'setLoginViewPassword:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#4888#235#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@124"Property 'homeView' requires method '-homeView' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#5123#210#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@131"Property 'homeView' requires the method 'setHomeView:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#5333#217#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@158"Property 'homeViewActivityIndicator' requires method '-homeViewActivityIndicator' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#5550#244#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@165"Property 'homeViewActivityIndicator' requires the method 'setHomeViewActivityIndicator:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#5794#251#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@134"Property 'fixedTextView' requires method '-fixedTextView' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#6045#220#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@141"Property 'fixedTextView' requires the method 'setFixedTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#6265#227#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@150"Property 'fixedTextViewTextView' requires method '-fixedTextViewTextView' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#6492#236#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@157"Property 'fixedTextViewTextView' requires the method 'setFixedTextViewTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#6728#243#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@136"Property 'scrollTextView' requires method '-scrollTextView' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#6971#222#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@143"Property 'scrollTextView' requires the method 'setScrollTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#7193#229#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@152"Property 'scrollTextViewTextView' requires method '-scrollTextViewTextView' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#7422#238#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@159"Property 'scrollTextViewTextView' requires the method 'setScrollTextViewTextView:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#7660#245#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@126"Property 'imageView' requires method '-imageView' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#7905#212#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@133"Property 'imageView' requires the method 'setImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#8117#219#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@144"Property 'imageViewImageView' requires method '-imageViewImageView' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#8336#230#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@151"Property 'imageViewImageView' requires the method 'setImageViewImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#8566#237#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@142"Property 'createAccountView' requires method '-createAccountView' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#8803#228#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@149"Property 'createAccountView' requires the method 'setCreateAccountView:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#9031#235#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@158"Property 'createAccountViewFullName' requires method '-createAccountViewFullName' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#9266#244#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@165"Property 'createAccountViewFullName' requires the method 'setCreateAccountViewFullName:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#9510#251#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@152"Property 'createAccountViewEmail' requires method '-createAccountViewEmail' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#9761#238#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@159"Property 'createAccountViewEmail' requires the method 'setCreateAccountViewEmail:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#9999#245#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@158"Property 'createAccountViewUsername' requires method '-createAccountViewUsername' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#10244#244#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@165"Property 'createAccountViewUsername' requires the method 'setCreateAccountViewUsername:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#10488#251#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@158"Property 'createAccountViewPassword' requires method '-createAccountViewPassword' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#10739#244#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(22@165"Property 'createAccountViewPassword' requires the method 'setCreateAccountViewPassword:' to be defined - use @synthesize, @dynamic or provide a method implementation308981919#10983#251#0(6@70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m308981919#300#0#300#0#0"0(0#0#70"/Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m8606543552#1954"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-generated-files.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-own-target-headers.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-all-target-headers.hmap -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-project-headers.hmap -F/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -I/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/include -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources/i386 -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources -include /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch -c /Users/fastshop/Desktop/TUDO/iSignage/Classes/iSignageViewController.m -o /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignageViewController.o0#
+
+CCompileC build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/main.o /Users/fastshop/Desktop/TUDO/iSignage/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308891386.345524
+e308891386.462431
+r1
+xCompileC
+xbuild/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/main.o
+x/Users/fastshop/Desktop/TUDO/iSignage/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/fastshop/Desktop/TUDO/iSignage/main.m308891386#308891386#0(0"0(0#0#44"/Users/fastshop/Desktop/TUDO/iSignage/main.m8603981760#1910"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-generated-files.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-own-target-headers.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-all-target-headers.hmap -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-project-headers.hmap -F/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -I/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/include -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources/i386 -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources -include /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch -c /Users/fastshop/Desktop/TUDO/iSignage/main.m -o /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/fastshop/Desktop/TUDO/iSignage/MainWindow.xib
+s308891383.728165
+e308891384.895681
+r1
+xCompileXIB
+x/Users/fastshop/Desktop/TUDO/iSignage/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308891383#308891384#0(0"0(0#0#52"/Users/fastshop/Desktop/TUDO/iSignage/MainWindow.xib8604100128#568"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/MainWindow.nib /Users/fastshop/Desktop/TUDO/iSignage/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/fastshop/Desktop/TUDO/iSignage/iSignageViewController.xib
+s308981326.374803
+e308981327.069635
+r1
+xCompileXIB
+x/Users/fastshop/Desktop/TUDO/iSignage/iSignageViewController.xib
+lSLF07#2@37"CompileXIB iSignageViewController.xib308981326#308981327#0(0"0(0#0#64"/Users/fastshop/Desktop/TUDO/iSignage/iSignageViewController.xib8620611168#592"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignageViewController.nib /Users/fastshop/Desktop/TUDO/iSignage/iSignageViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/iSignage.app/Icon.png Icon.png
+s308983362.281267
+e308983362.320441
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iSignage.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png308983362#308983362#0(0"0(0#0#46"/Users/fastshop/Desktop/TUDO/iSignage/Icon.png8611160160#450"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/fastshop/Desktop/TUDO/iSignage/Icon.png /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app0#
+
+CCpResource build/Debug-iphonesimulator/iSignage.app/background.png background.png
+s308892047.204845
+e308892047.304921
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iSignage.app/background.png
+xbackground.png
+lSLF07#2@19"Copy background.png308892047#308892047#0(0"0(0#0#52"/Users/fastshop/Desktop/TUDO/iSignage/background.png8608420512#456"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/fastshop/Desktop/TUDO/iSignage/background.png /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app0#
+
+CGenerateDSYMFile /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app.dSYM /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage
+s308981941.728969
+e308981941.748309
+r1
+xGenerateDSYMFile
+x/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app.dSYM
+x/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/iSignage.app.dSYM build/Debug-iphonesimulator/iSignage.app/iSignage308981941#308981941#0(0"0(0#0#87"/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage8606442720#383"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage -o /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app.dSYM0#
+
+CLd /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage normal i386
+s308981941.703390
+e308981941.728872
+r1
+xLd
+x/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage
+xnormal
+xi386
+lSLF07#2@92"Link /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage308981941#308981941#0(0"0(0#0#0"8605768576#931"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -F/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -filelist /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/Objects-normal/i386/iSignage.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework SystemConfiguration -o /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/iSignage0#
+
+CProcessInfoPlistFile /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/Info.plist iSignage-Info.plist
+s308983178.182219
+e308983178.207939
+r1
+xProcessInfoPlistFile
+x/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/Info.plist
+xiSignage-Info.plist
+lSLF07#2@27"Process iSignage-Info.plist308983178#308983178#0(181"warning: User supplied UIDeviceFamily key in the Info.plist will be overwritten. Please use the build setting TARGETED_DEVICE_FAMILY and remove UIDeviceFamily from your Info.plist.1(22@171"User supplied UIDeviceFamily key in the Info.plist will be overwritten. Please use the build setting TARGETED_DEVICE_FAMILY and remove UIDeviceFamily from your Info.plist.308983178#18446744073709551615#0#0(6@0"308983178#0#0#0#0#0"0(0#0#57"/Users/fastshop/Desktop/TUDO/iSignage/iSignage-Info.plist8606079264#479"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iSignage-Info.plist -genpkginfo /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app/Info.plist0#
+
+CProcessPCH /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch.gch iSignage_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308891384.895880
+e308891386.345377
+r1
+xProcessPCH
+x/var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch.gch
+xiSignage_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iSignage_Prefix.pch308891384#308891386#0(0"0(0#0#57"/Users/fastshop/Desktop/TUDO/iSignage/iSignage_Prefix.pch8601661056#1802"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-generated-files.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-own-target-headers.hmap -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-all-target-headers.hmap -iquote /Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/iSignage-project-headers.hmap -F/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator -I/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/include -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources/i386 -I/Users/fastshop/Desktop/TUDO/iSignage/build/iSignage.build/Debug-iphonesimulator/iSignage.build/DerivedSources -c /Users/fastshop/Desktop/TUDO/iSignage/iSignage_Prefix.pch -o /var/folders/2F/2FoUZ9PvHfqj2fsg8DfKDE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSignage_Prefix-hjcxxdiihbymirapfospcydtdioy/iSignage_Prefix.pch.gch0#
+
+CTouch /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app
+s308983362.322451
+e308983362.324837
+r1
+xTouch
+x/Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app
+lSLF07#2@84"Touch /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app308983362#308983362#0(0"0(0#0#0"8612186528#277"    cd /Users/fastshop/Desktop/TUDO/iSignage    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/fastshop/Desktop/TUDO/iSignage/build/Debug-iphonesimulator/iSignage.app0#
+

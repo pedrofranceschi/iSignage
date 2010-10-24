@@ -1,0 +1,59 @@
+<div id="content">
+	<div align="right"><p><%= link_to "Logout", :action => "logout"%></p></div>
+	<div align="center"><h1>Home</h1></div>
+	<h2><%= image_tag "ipad_icon.png" %> iPad status:	
+	<% if @device_online %>
+		<span style="color:green">Online</span>
+	<% else %>
+		<span style="color:red">Offline</span>
+	<% end %>
+	</h2>
+	
+	<% if @device_online %>
+		<h2>Control</h2>
+			<% form_tag(:action => 'change_text') do -%>
+				<%= hidden_field_tag :session_id, @last_session.id %>
+				<b>Text:</b> <br/><br/><%= text_area_tag :text, session[:current_text], :size => "50x5" %><br/><br/>
+				<%= submit_tag "Change" %>
+			<% end -%>
+			
+			<% form_tag(:action => 'change_font_size') do -%>
+				<%= hidden_field_tag :session_id, @last_session.id %>
+				<b>Font size:</b> <%= text_field_tag :size, session[:current_font_size].to_f, :size => '5' %><br/><br/>
+				<%= submit_tag "Change" %>
+			<% end -%>
+			
+			<% form_tag(:action => 'change_font_color') do -%>
+				<%= hidden_field_tag :session_id, @last_session.id %>
+				<b>Font color:</b><br/><br/>
+				<% font_color_values = session[:current_text_color].split("$!$")%>
+				Red: <%= text_field_tag :red, font_color_values[0], :size => '5' %><br/>
+				Green: <%= text_field_tag :green, font_color_values[1], :size => '5' %><br/>
+				Blue: <%= text_field_tag :blue, font_color_values[2], :size => '5' %><br/><br/>
+				<%= submit_tag "Change" %>
+			<% end -%>
+			
+			<% form_tag(:action => 'change_background_color') do -%>
+				<%= hidden_field_tag :session_id, @last_session.id %>
+				<b>Background color:</b><br/><br/>
+				<% background_color_values = session[:current_background_color].split("$!$")%>
+				Red: <%= text_field_tag :red, background_color_values[0], :size => '5' %><br/>
+				Green: <%= text_field_tag :green, background_color_values[1], :size => '5' %><br/>
+				Blue: <%= text_field_tag :blue, background_color_values[2], :size => '5' %><br/><br/>
+				<%= submit_tag "Change" %>
+			<% end -%>
+			
+			<% form_tag(:action => 'change_text_alignment') do -%>
+				<%= hidden_field_tag :session_id, @last_session.id %>
+				<b>Text alignment:</b> <%= select_tag :text_alignment, options_for_select([["Left", "1"], ["Center", "2"], ["Right", "3"]], session[:current_text_alignment]) %><br/><br/>
+				<%= submit_tag "Change" %>
+			<% end -%>
+			
+			<% form_tag(:action => 'change_image_url') do -%>
+				<%= hidden_field_tag :session_id, @last_session.id %>
+				<b>Image URL (leave blank to show text):</b> <%= text_field_tag :url, session[:current_image_url], :size => "70" %><br/><br/>
+				<%= submit_tag "Change" %>
+			<% end -%>
+	<% end %>
+	
+</div>

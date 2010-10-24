@@ -1,0 +1,192 @@
+// !$*UTF8*$!
+{
+	105C93E012694D8500B280DD /* iSignage */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iSignage;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	105C93EF12694D8800B280DD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	105C93F012694D8800B280DD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	105C94041269522F00B280DD /* ServerRequest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1411, 642}}";
+			sepNavSelRange = "{316, 0}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	105C941B126953DE00B280DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 105C94041269522F00B280DD /* ServerRequest.h */;
+		name = "ServerRequest.h: 19";
+		rLen = 0;
+		rLoc = 316;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	105C95F5126A292700B280DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* iSignageAppDelegate.h */;
+		name = "iSignageAppDelegate.h: 23";
+		rLen = 0;
+		rLoc = 478;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	10A2F4F7126AB098001B96BD /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iSignage-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/fastshop/Desktop/TUDO/iSignage/iSignage-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	10A2F532126AB5F9001B96BD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iSignageViewController.m */;
+		name = "iSignageViewController.m: 301";
+		rLen = 0;
+		rLoc = 14409;
+		rType = 0;
+		vrLen = 2229;
+		vrLoc = 179;
+	};
+	10A2F533126AB5F9001B96BD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 10A2F50D126AB437001B96BD /* Icon.png */;
+	};
+	10A2F557126BB595001B96BD /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iSignage-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/fastshop/Desktop/TUDO/iSignage/iSignage-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	1D3623240D0F684500981E51 /* iSignageAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1411, 619}}";
+			sepNavSelRange = "{478, 0}";
+			sepNavVisRange = "{0, 478}";
+		};
+	};
+	1D3623250D0F684500981E51 /* iSignageAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 832}}";
+			sepNavSelRange = "{2078, 0}";
+			sepNavVisRange = "{0, 467}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iSignage */ = {
+		activeExec = 0;
+		executables = (
+			105C93E012694D8500B280DD /* iSignage */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* iSignageViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1086, 871}}";
+			sepNavSelRange = "{167, 0}";
+			sepNavVisRange = "{0, 487}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* iSignageViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1734, 4043}}";
+			sepNavSelRange = "{14409, 0}";
+			sepNavVisRange = "{600, 1232}";
+			sepNavWindowFrame = "{{15, 87}, {1664, 936}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 105C93E012694D8500B280DD /* iSignage */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iSignage */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iSignage */,
+		);
+		codeSenseManager = 105C93F012694D8800B280DD /* Code sense */;
+		executables = (
+			105C93E012694D8500B280DD /* iSignage */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1233,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308981743;
+			PBXWorkspaceStateSaveDate = 308981743;
+		};
+		perUserProjectItems = {
+			105C941B126953DE00B280DD /* PBXTextBookmark */ = 105C941B126953DE00B280DD /* PBXTextBookmark */;
+			105C95F5126A292700B280DD /* PBXTextBookmark */ = 105C95F5126A292700B280DD /* PBXTextBookmark */;
+			10A2F4F7126AB098001B96BD /* PlistBookmark */ = 10A2F4F7126AB098001B96BD /* PlistBookmark */;
+			10A2F532126AB5F9001B96BD /* PBXTextBookmark */ = 10A2F532126AB5F9001B96BD /* PBXTextBookmark */;
+			10A2F533126AB5F9001B96BD /* PBXBookmark */ = 10A2F533126AB5F9001B96BD /* PBXBookmark */;
+			10A2F557126BB595001B96BD /* PlistBookmark */ = 10A2F557126BB595001B96BD /* PlistBookmark */;
+		};
+		sourceControlManager = 105C93EF12694D8800B280DD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
