@@ -7,7 +7,7 @@ class IdeviceController < ApplicationController
   end
   
   def login
-    @user = User.find(:first, :conditions => ["username = ? AND password = ?", params[:username], params[:password]])
+    @user = User.find(:first, :conditions => {:username => params[:username], :password => params[:password]})
     if @user
       render :text => "OK$__$username:#{@user.username}|full_name:#{@user.full_name}|user_id:#{@user.id}|mode:0", :code => 200
     else
