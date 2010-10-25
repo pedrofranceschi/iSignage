@@ -6,7 +6,7 @@ class UsersController < ApplicationController
   end
   
   def authenticate
-    valid_user = User.find(:first, :conditions => ["username = ? and password = ?", params[:username], params[:password]])
+    valid_user = User.find(:first, :conditions => {:username => params[:username], :password => params[:password]})
     if valid_user != nil
       session[:username] = valid_user.username
       
